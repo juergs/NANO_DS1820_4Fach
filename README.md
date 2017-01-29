@@ -2,3 +2,4 @@
 4 Dallas 18B20 sensors to LaCrosse protocol (433Mhz)
 
 Using 4 OW-Instances and 4 separate LaCrosse-IDs (433MHz) 
+Implemented on Arduino-NANO 16 MHz
